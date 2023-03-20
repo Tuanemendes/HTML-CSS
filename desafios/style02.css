@@ -8,10 +8,12 @@
 }
 
 body {
-    font-family: 'Spectral';
+    font-family: 'Spectral',sans-serif;
     background-image: url(/HTML-CSS/img/background-image\ \(2\).png);
-    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
+    text-align: center;
     color: #EBF1FB;
     display: grid;
     place-content: center;
