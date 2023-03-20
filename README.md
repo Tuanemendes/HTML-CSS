@@ -1,5 +1,5 @@
 
-# Rockeseat Jornada do Zero à Primeira Vaga com HTML e CSS
+# Rockeseat Jornada  com HTML e CSS
 
 ![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=red&style=for-the-badge)
 
