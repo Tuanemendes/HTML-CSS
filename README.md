@@ -36,7 +36,7 @@ Foi iniciado com a criação de um página web como titulos, textos, links  e no
 🟢  Sistema operacional Linux <br>
 🟢  Editor de código VsCode<br>
 🟢  Extençõés Emmet, Live Server<br>
-🟢  [Figma]()<br>
+🟢  [Figma](https://www.figma.com/?fuid=)<br>
 🟢  Editor online [FrontEditor](https://www.fronteditor.dev/)<br>
 🟢  Serviço de hospedagem de imagens (Gratuito e Pago) [ImbBB](https://pt-br.imgbb.com/)<br>
 🟢  [Google Fonts](https://fonts.google.com/)<br> 
