@@ -37,7 +37,7 @@ Foi iniciado com a criação de um página web como titulos, textos, links  e no
 🟢  Editor de código VsCode<br>
 🟢  Extençõés Emmet, Live Server<br>
 🟢  <a href="https://www.figma.com/?fuid=" target="_blank">Figma</a><br>
-🟢  Editor online [FrontEditor](https://www.fronteditor.dev/)<br>
+🟢  Editor online [FrontEditor](https://www.fronteditor.dev/){:target="_blank"}<br>
 🟢  Serviço de hospedagem de imagens (Gratuito e Pago) [ImbBB](https://pt-br.imgbb.com/)<br>
 🟢  [Google Fonts](https://fonts.google.com/)<br> 
 🟢  [Discord da comunidade Rockeseat](https://discord.com/oauth2/authorize?client_id=949331074079662180&redirect_uri=https%3A%2F%2Fdiscord-service.rocketseat.dev%2Fsignin%2Fdynamic-callback&response_type=code&scope=identify+email+guilds.join&state=jornada-do-zero-a-primeira-vaga)
